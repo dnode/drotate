@@ -1,0 +1,13 @@
+{
+  "name": "drotate",
+  "description": "Endless looping through an array",
+  "version": "1.0.0",
+  "homepage": "http://github.com/dnode/drotate",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "src/lib.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnode/drotate.git"
+  }
+}
