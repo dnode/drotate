@@ -4,5 +4,7 @@
 # Example
 ```javascript
 const drotate = require('drotate');
-for (let value of drotate(['a', 'b', 'c', 'd'])) {}
+for (const value of drotate(['a', 'b', 'c', 'd'])) {
+  console.log(value);
+}
 ```
